@@ -1,0 +1,31 @@
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\obj\x86\Debug\lb7.Form1.resources
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\obj\x86\Debug\lb7.Properties.Resources.resources
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\obj\x86\Debug\lb7.csproj.GenerateResource.Cache
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\bin\Debug\lb7.exe
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\bin\Debug\lb7.pdb
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\obj\x86\Debug\lb7.Form2.resources
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\obj\x86\Debug\lb7.Form3.resources
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\obj\x86\Debug\lb7.Form4.resources
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\obj\x86\Debug\lb7.exe
+C:\Users\Алина\AppData\Local\Temporary Projects\lb7\obj\x86\Debug\lb7.pdb
+C:\Users\Алина\Documents\Visual Studio 2010\Projects\lb7\lb7\obj\x86\Debug\lb7.exe
+C:\Users\Алина\Documents\Visual Studio 2010\Projects\lb7\lb7\obj\x86\Debug\lb7.pdb
+C:\Users\Алина\documents\visual studio 2010\Projects\lb7\lb7\bin\Debug\lb7.exe
+C:\Users\Алина\documents\visual studio 2010\Projects\lb7\lb7\bin\Debug\lb7.pdb
+C:\Users\Алина\documents\visual studio 2010\Projects\lb7\lb7\obj\x86\Debug\lb7.Form1.resources
+C:\Users\Алина\documents\visual studio 2010\Projects\lb7\lb7\obj\x86\Debug\lb7.Form2.resources
+C:\Users\Алина\documents\visual studio 2010\Projects\lb7\lb7\obj\x86\Debug\lb7.Form3.resources
+C:\Users\Алина\documents\visual studio 2010\Projects\lb7\lb7\obj\x86\Debug\lb7.Form4.resources
+C:\Users\Алина\documents\visual studio 2010\Projects\lb7\lb7\obj\x86\Debug\lb7.Properties.Resources.resources
+C:\Users\Алина\documents\visual studio 2010\Projects\lb7\lb7\obj\x86\Debug\lb7.csproj.GenerateResource.Cache
+G:\эл. бизнес\lb7\lb7\bin\Debug\lb7.exe
+G:\эл. бизнес\lb7\lb7\bin\Debug\lb7.pdb
+G:\эл. бизнес\lb7\lb7\obj\x86\Debug\lb7.csprojResolveAssemblyReference.cache
+G:\эл. бизнес\lb7\lb7\obj\x86\Debug\lb7.Form1.resources
+G:\эл. бизнес\lb7\lb7\obj\x86\Debug\lb7.Form2.resources
+G:\эл. бизнес\lb7\lb7\obj\x86\Debug\lb7.Form3.resources
+G:\эл. бизнес\lb7\lb7\obj\x86\Debug\lb7.Form4.resources
+G:\эл. бизнес\lb7\lb7\obj\x86\Debug\lb7.Properties.Resources.resources
+G:\эл. бизнес\lb7\lb7\obj\x86\Debug\lb7.csproj.GenerateResource.Cache
+G:\эл. бизнес\lb7\lb7\obj\x86\Debug\lb7.exe
+G:\эл. бизнес\lb7\lb7\obj\x86\Debug\lb7.pdb
